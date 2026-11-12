@@ -1,0 +1,14 @@
+{
+  "name": "@subaru.ysr/kwen",
+  "version": "0.1.0",
+  "description": "A fast, robust CLI agent harness tailored for small Qwen models with LM Studio and MCP support",
+  "bin": {
+    "kwen": "bin/kwen.js"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "optionalDependencies": {
+    "kwen-win32-x64": "0.1.0"
+  }
+}
